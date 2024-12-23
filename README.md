@@ -1,3 +1,5 @@
 # Introduction
 
-my second commit!
+GITHUB TRAINING
+
+BEEP BOOP BEEP 
